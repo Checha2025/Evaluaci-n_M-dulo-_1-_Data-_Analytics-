@@ -2,7 +2,7 @@
 # BY CECILIA MARTINEZ GANDOLFO
 
 #Python program to manage products stock: it uses a list of dictionaries to keep track of everything and handles logic for updating stock and prices automatically.
-""
+
 # ESTRUCTURE
 The whole prohect work around global list called invetorty. Each item is a dictionary making easy the access to the data.
 # 1 - Data Normalization: I used .strip().lower() to avoid having the same product twice because of tha capitla letter or an extra space.
