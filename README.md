@@ -1,5 +1,6 @@
-#INVENTORY MANAGEMENT SYSTEM BY CECILIA MARTINEZ GANDOLFO
-""
+# INVENTORY MANAGEMENT SYSTEM 
+# BY CECILIA MARTINEZ GANDOLFO
+
 #Python program to manage products stock: it uses a list of dictionaries to keep track of everything and handles logic for updating stock and prices automatically.
 ""
 # ESTRUCTURE
